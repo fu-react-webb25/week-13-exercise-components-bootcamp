@@ -8,9 +8,13 @@
 4. Skapa dina eventuella sub-komponenter och importera dem in i lämplig huvudkomponent.
 5. Försök styla så att dina versioner ser likadana ut som bilderna i `assets`.
 
-### Tips!
+### Tips 1!
 
 Skapa INTE ett projekt per bild, utan skapa hellre en komponent per bild, där du då kan välja i `App.jsx` vilken av dina versioner du vill visa på skärmen. Exempelvis: `<Desktop-1 />`.
+
+### Tips 2!
+
+Inledningsvis brukar det vara lättare att rita upp sin komponentstruktur så att man får det visuellt framför sig.
 
 ## Övning 2 - Landningssida (Valfritt)
 
@@ -19,6 +23,8 @@ Skapa INTE ett projekt per bild, utan skapa hellre en komponent per bild, där d
 3. Fundera även på vilka sub-komponenter dina huvud-komponenter består utav.
 4. Skapa dina komponenter och fyll dem med hårdkodad data, dvs. bilder, rubriker, artiklar, länkar osv.
 5. Pussla ihop din kopia och styla den så likt orginalet som möjligt.
+
+Om du inte hittar någon enkel sida så kan du använda Space Hack, Planned Planthood, eller Bonz.ai från HTML&CSS-kursen.
 
 #### Tips!
 
